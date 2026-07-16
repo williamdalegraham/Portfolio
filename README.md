@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td>
-<img width="512" height="512" alt="Will" src="https://github.com/user-attachments/assets/75c5b34e-8c09-4ed1-85b2-4cdd2eb4c56d">
+<img width="40%" alt="Will" src="https://github.com/user-attachments/assets/75c5b34e-8c09-4ed1-85b2-4cdd2eb4c56d">
 </td>
 </tr>
 </table>
