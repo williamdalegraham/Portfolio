@@ -1,4 +1,5 @@
 # 👋 Hi, I'm William Graham
+<img width="265" height="265" alt="Will" src="https://github.com/user-attachments/assets/b90d5a06-10b5-4bde-b261-18fa8a852d21" />
 
 ### Operations Leader | Software Engineer | Future Enterprise AI Engineer
 
